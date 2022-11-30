@@ -14,7 +14,7 @@ I'm currently studying Computer Science 🎓 at the University of California, Be
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
