@@ -17,7 +17,7 @@ I'm currently studying Computer Science 🎓 at the University of California, Be
 - 🛠 &nbsp; I’m currently working with Nodejs, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: фKT.
 - 📫 &nbsp; How to reach me: peterchoi7250@berkeley.edu.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/PeterChoi7/PeterChoi7/blob/main/PeterChoiResume3.pdf).
 
