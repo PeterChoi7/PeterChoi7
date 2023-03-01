@@ -19,7 +19,7 @@ I'm currently studying Computer Science 🎓 at the University of California, Be
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
 - 👾 &nbsp; Fun fact: Used to be a huge soccer player, but I'm starting to get into Poker and Golf. фKT.
 - 📫 &nbsp; How to reach me: peterchoi7250@berkeley.edu.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/PeterChoi7/PeterChoi7/blob/main/PeterChoiResume3.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/PeterChoi7/PeterChoi7/blob/main/PeterChoiResume6.pdf).
 
 ### My Absolute Favorites:
 
