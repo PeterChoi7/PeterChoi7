@@ -15,7 +15,7 @@ I'm currently studying Computer Science 🎓 at the University of California, Be
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently working to earn the IBM Full Stack Software Developer Professional Certificate.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PeterChoi7).
 - 👾 &nbsp; Fun fact: Used to be a huge soccer player, but I'm starting to get into Poker and Golf. фKT.
 - 📫 &nbsp; How to reach me: peterchoi7250@berkeley.edu.
