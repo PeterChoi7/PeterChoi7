@@ -10,7 +10,7 @@
 I'm currently studying Computer Science 🎓 at the University of California, Berkeley 🏛. 
 
 
-<img align="right" height="250" width="375" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspider-man2&psig=AOvVaw0tFYoYB8yb25haOzGQPwYm&ust=1690244504221000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCIgM6JpoADFQAAAAAdAAAAABAQ" />
+<img align="right" height="250" width="375" alt="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp2MzJhM2Z6MjYwdmp4ZnpkM2ZvZXhmODgzYjhlcXhhbm9vZDk0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
