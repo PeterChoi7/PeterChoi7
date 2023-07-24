@@ -10,7 +10,7 @@
 I'm currently studying Computer Science 🎓 at the University of California, Berkeley 🏛. 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspider-man2&psig=AOvVaw0tFYoYB8yb25haOzGQPwYm&ust=1690244504221000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCIgM6JpoADFQAAAAAdAAAAABAQ" />
 
 ### Talking about Personal Stuffs:
 
