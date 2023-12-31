@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=peterchoi7.peterchoi7&style=flat-square&color=0088cc)
 
-I'm currently studying Computer Science 🎓 at the University of California, Berkeley 🏛. 
+I'm currently studying Computer Science at the University of California, Berkeley. 
 
 
 <img align="right" height="250" width="375" alt="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp2MzJhM2Z6MjYwdmp4ZnpkM2ZvZXhmODgzYjhlcXhhbm9vZDk0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif" />
